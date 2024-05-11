@@ -35,6 +35,12 @@ link storage folder to public access
 php artisan storage:link
 ```
 
+Email and Paswword
+```sh
+admin@admin.com
+admin123
+```
+
 ## Plugins
 
 starter-laravel-role-article is currently extended with the following plugins.
